@@ -1,6 +1,9 @@
 import org.code.neighborhood.*;
 
 public class ArmenianFlag extends PainterPlus { 
+  
+/* Creates the Flag with different rows
+and different rows of stripes */
 
 
   // Paints the First Red Stripe of the flag

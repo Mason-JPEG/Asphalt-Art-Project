@@ -1,7 +1,9 @@
 import org.code.neighborhood.*;
 
 public class NeighborhoodRunner {
-  public static void main(String[] args) {
+  public static void main(String[] args) 
+
+  // Allows multiple painters for each subclass
     
 BackgroundPainter Mason = new BackgroundPainter();
     ArmenianFlag bobbie = new ArmenianFlag();
